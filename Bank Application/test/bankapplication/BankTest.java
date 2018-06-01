@@ -110,5 +110,6 @@ public class BankTest {
     public void calculateTotalMoneyTest2(){
         a2.withdraw(34454.45);
         assertEquals(810469.42, bank.calculateTotalMoney(), 0.000001);
+        //jjj
     }
 }
