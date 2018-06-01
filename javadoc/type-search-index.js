@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"bankapplication","l":"Account"},{"p":"bankapplication","l":"ApplicationLauncher"},{"p":"bankapplication","l":"Bank"}]
